@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejercicio1_1_1P</string>
+    <string name="SUMA">SUMA</string>
+    <string name="RESTA">RESTA</string>
+    <string name="MULTIPLICACION">MULTIPLICACION</string>
+    <string name="DIVIDISION">DIVIDISION</string>
+    <string name="numero_1">Numero 1</string>
+    <string name="numero_2">Numero 2</string>
+</resources>
